@@ -1,2 +1,2 @@
 # Git_cli
-Git_cli Tutorial
+Git_cli Tutorial (practice)
